@@ -1,6 +1,6 @@
 # hi!
 
-i like programming in Rust and Python. sometimes, i use C++ and rarely, C.
+i like programming in Rust, Python and Bash for writing quick scripts. sometimes, i use C++ and rarely, C.
 
 ## what i use
 
