@@ -1,21 +1,19 @@
-# hi!
+# Hi!
 
-i like programming in Rust, Python and Bash for writing quick scripts. sometimes, i use C++ and rarely, C.
+I generally prefer programming in **Rust** for larger projects. For quick scripts, I use **Python**
+or **Bash**. Occasionally, for learning purposes I use **C++** (C++20 and above) and **C**.
 
-## what i use
+## Using...
 
-- operating system: dual booting fedora and windows
-- desktop environment: kde plasma
-- web browser: firefox (considering [helium](https://github.com/imputnet/helium) once it's stable)
-- code editor: neovim (check out [my config](https://github.com/hachispin/neovim-config)), zed, vscodium
-- font: iosevka, {input,'fantasque sans',victor} mono, and some others
-<!-- "and some others" =
-     {jetbrains,'ibm plex',maple} mono, monaspace variants, source code pro (+ hasklig),
-     cozette, {fira,cascadia} code, termin{us,ess}, custom iosevka and commit mono builds -->
+- Operating system: Fedora and Windows (dual booting)
+- Desktop environment: KDE Plasma
+- Web browser: Firefox (considering [Helium](https://github.com/imputnet/helium) once it's stable)
+- Code editor: Neovim ([my config](https://github.com/hachispin/neovim-config)), Zed, VSCodium
+- Font: Mainly Lilex, Google Sans Code, Iosevka
 
-## what i'm working on
+## Working on...
 
-for the next few months i intend to focus on my EPQ [matrix-visualizer](https://github.com/hachispin/matrix-visualizer),
-though i'll try to keep up development of my other project. [currust](https://github.com/hachispin/currust).
+For the next few months I intend to focus on my EPQ, [matrix-visualizer](https://github.com/hachispin/matrix-visualizer).
+I'll try to keep up development of my other projects if possible in the meantime.
 
-and also a-levels…
+And A-levels.
