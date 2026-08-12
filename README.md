@@ -9,7 +9,7 @@ or **Bash**. Occasionally, for learning purposes I use **C++** (C++20 and above)
 - Desktop environment: KDE Plasma
 - Web browser: Firefox (considering [Helium](https://github.com/imputnet/helium) once it's stable)
 - Code editor: Neovim ([my config](https://github.com/hachispin/neovim-config)), Zed, VSCodium
-- Font: Mainly Lilex, Google Sans Code, Iosevka
+- Fonts: IBM Plex Sans, Inter; IBM Plex Serif, Georgia; Iosevka, Commit Mono
 
 ## Working on...
 
